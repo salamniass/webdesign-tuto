@@ -1,5 +1,5 @@
 .client-area {
-  padding: 300px;
+  padding: 30px;
   &__form {
     display: flex;
   }
